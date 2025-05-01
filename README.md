@@ -1,2 +1,2 @@
 # QAEA
-School project informing people regarding the negative effects of vaping
+This is my school-website project informing people regarding the negative effects of vaping.
